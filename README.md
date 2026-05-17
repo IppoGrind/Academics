@@ -1,6 +1,17 @@
 # Academics
 A curated list of academic resources and cool tools
 
+## Ethics
+**TW**
+https://ethics.moe.edu.tw/
+
+**TW AI Policy**
+https://ethics.moe.edu.tw/resource/epaper/html/21/
+
+## How to Form a Paper
+**Wordvice**
+https://blog.wordvice.com.tw/research-proposal-sections-explained/
+
 ## Standford AI
 1. Storm AI 
 https://storm.genie.stanford.edu/
