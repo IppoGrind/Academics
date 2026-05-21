@@ -18,11 +18,21 @@ https://storm.genie.stanford.edu/
 2. Agentic Reviewer 
 https://paperreview.ai/
 
+## Search AI
+1. Consensus
+https://consensus.app/
+
 ## Writing Assistant
 1. Grammarly
 https://app.grammarly.com/
 2. APA Citation Generator
 https://www.mybib.com/tools/apa-citation-generator
+3. PaperPal
+https://paperpal.com/
+
+## Read AI
+1. Explain Paper
+https://www.explainpaper.com/
 
 ## Text Book
 1. Openstax
