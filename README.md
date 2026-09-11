@@ -22,6 +22,12 @@ https://paperreview.ai/
 1. Consensus
 https://consensus.app/
 
+## Visual Citation AI
+1. Lit maps
+https://app.litmaps.com/
+2. Research Rabbit
+https://app.researchrabbit.ai/
+
 ## Writing Assistant
 1. Grammarly
 https://app.grammarly.com/
@@ -33,6 +39,8 @@ https://paperpal.com/
 ## Read AI
 1. Explain Paper
 https://www.explainpaper.com/
+2. Elicit
+https://elicit.com/
 
 ## Text Book
 1. Openstax
