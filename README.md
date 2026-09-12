@@ -56,7 +56,7 @@ https://ethics.moe.edu.tw/
 
 ### 資料科學 AI 工具
 
-| [Julius AI](https://julius.ai) 
+[Julius AI](https://julius.ai) 
 支援上傳各式資料集，以自然語言回答數據問題，自動生成高品質問答與 Python 分析程式碼
 
 
