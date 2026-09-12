@@ -1,5 +1,5 @@
 # 學術資源庫
-A curated list of academic resources and cool tools
+
 
 ## 學術倫理
 ### 台灣學術倫理教育資源中心
